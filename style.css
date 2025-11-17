@@ -69,5 +69,18 @@ color: #4c544c;
     color: #ffffff;
     font-size: 19px;
     background-color: #333333;
+    margin: 30px;
+ }
+
+
+ .banner-estrutura{
+
+    width: 220px;
+ }
+ 
+
+ .section-banner{
+    display: flex;
+    justify-content: center;
  }
  
