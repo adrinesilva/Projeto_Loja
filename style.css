@@ -84,3 +84,53 @@ color: #4c544c;
     justify-content: center;
  }
  
+ .titulo{
+   color: #ffffff;
+   font-weight: bold;
+   font-size: 35px;
+ }
+
+ .estrutura-titulo{
+   display: flex;
+   justify-content: center;
+   padding: 30px;
+ }
+
+ .produtos{
+   height: 380;
+   width: 250px;
+ }
+
+   .valor{
+      color: #ffffff;
+      font-weight: bold;
+      font-size: 30px;
+   }
+
+.card-texto{
+   display: flex;
+   justify-content: center;
+}
+.card{
+   height: 430px;
+   width: 250px;
+}
+
+.cores{
+   height: 20px;
+   width: 15px;
+   border-radius: 55px;/*Deixa a  borda redonda*/
+   border: none; /*Serve para remover a borda*/
+}
+
+.vermelho{
+   background-color: red;
+}
+
+.azul{
+   background-color:blue ;
+}
+
+.amarelo{
+   background-color: yellow;
+}
