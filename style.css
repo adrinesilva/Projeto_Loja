@@ -153,3 +153,23 @@ color: #4c544c;
    flex-direction: row;
    gap: 20px; /* ele dar uma distancia igual entre os elementos */
 }
+
+
+.banner-xbox{
+   background-image: url("./Assents/x-box.png");
+   height: 450px;
+   width: 850px;
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+.texto-xbox{
+   color: #ffffff;
+   font-size: 30px;
+   font-weight: 700;
+}
+
+.banner-xbox{
+   display: flex;
+   justify-content: end;
+}
