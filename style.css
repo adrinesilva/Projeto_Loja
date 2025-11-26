@@ -161,6 +161,7 @@ color: #4c544c;
    width: 850px;
    background-size: cover;
    background-repeat: no-repeat;
+   margin-top: 55px;
 }
 
 .texto-xbox{
@@ -182,4 +183,34 @@ color: #4c544c;
    justify-content: center;
    height: 120px;
    margin: 20px;
+}
+
+.sobre-nos{
+display: flex;
+  flex-direction: column;
+  align-items: flex-start
+  
+}
+
+.contact-e{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 40px;
+  margin: 10px;
+  justify-content: flex-start;
+}
+
+.rodape{
+color: #ffffff;
+   gap: 30px;
+   margin-bottom: 10px;
+   display: flex;
+   justify-content: center;
+}
+.footer-container{
+   background-color: #3b3a3a;
+   padding: 35px;
+   margin-bottom: 20px;
+   display: flex;
 }
